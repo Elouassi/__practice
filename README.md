@@ -15,7 +15,7 @@ Repository for the express purpose of documenting the owner's personal education
 
 4.)use a combination of `git add` and `git commit` to make changes to your local repository 
 
-5.) OPTIONAL: adding this to test whether I am connected to the central repository
+5.) OPTIONAL: adding this to test whether I am connected to the central repository.
 
 ## **Useful Links**
 
